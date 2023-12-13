@@ -1,6 +1,6 @@
 # EMF-Badge
 
-<br />
+
 <div align="center">
   <a href="">
     <img src="https://github.com/Drc3p0/EMF-Badge/blob/main/EMFbadgefront.jpg" alt="EMF pcb front" width="480" height="500">
@@ -13,9 +13,11 @@
 </h3>
 </div>
 This design is based on the Elektroslusch design, but with a low voltage op amp & low pass filter. Designed with the workshop participant in mind, and can be worn on a lanyard for extra UFO bling.
-  
-  
-TODO: 
+<br>     
+    
+</br>
+     
+**TODO:** 
 - export kicad custom footprints
 - upload kicad files
 - upload Gerbers
